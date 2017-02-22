@@ -1,0 +1,10 @@
+1.patata: http://dle.rae.es/?id=S822tOI
+2.paracetamol: http://dle.rae.es/?id=RpKWqLq
+3.botella: http://dle.rae.es/?id=5yiuECX
+4.casa: http://dle.rae.es/?id=7lsKMtR
+5.camino: http://dle.rae.es/?id=6xxQ4ub
+6.guapa: http://dle.rae.es/?id=JgU0Yj9
+7.mensaje: http://dle.rae.es/?id=OvO0obY
+8.subliminal: http://dle.rae.es/?id=YXzvDAr
+9.ventana: http://dle.rae.es/?id=bY8XdFW
+10.ordenador: http://dle.rae.es/?id=R9dHZWB
