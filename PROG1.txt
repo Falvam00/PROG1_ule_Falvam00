@@ -8,3 +8,16 @@
 8.subliminal: http://dle.rae.es/?id=YXzvDAr
 9.ventana: http://dle.rae.es/?id=bY8XdFW
 10.ordenador: http://dle.rae.es/?id=R9dHZWB
+
+1.Ordenador http://dle.rae.es/?id=R9dHZWB
+2.Portátil http://dle.rae.es/?id=Tl21X5Z
+3.Programar http://dle.rae.es/?id=UJWsNlv
+4.Código http://dle.rae.es/?id=9daBvI8
+5.Tecla http://dle.rae.es/?id=ZINbdUY
+6.Ratón http://dle.rae.es/?id=VEOs7fW
+7.Pantalla http://dle.rae.es/?id=RibGXgi
+8.Software http://dle.rae.es/?id=YErlG2H
+9.Hardware http://dle.rae.es/?id=K1Wwkf7
+10.Sonido http://dle.rae.es/?id=YMV5Hqd
+
+
